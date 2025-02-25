@@ -2,7 +2,7 @@
 The first USB with machine learning for smartphones, a simple and 
 easy way to create, use and innovate artificial intelligence models.
 
-● Ego One Edge MOPS* ML accelerator
+● USB Ego One Edge MOPS* ML accelerator
 - 480 MOPS* total peak performance
 - 480 MOPS* using 0.26 watt
   

@@ -13,7 +13,8 @@ easy way to create, use and innovate artificial intelligence models.
 ● Supports AppInventor serial extension with direct connection to your smartphone
 
 ● Includes USB A to USB C cable.
-● Includes adapted mini USB A to USB C
+
+● Includes adapted mini USB A to USB C.
 
  * MOPS = Million Operations Per Second
 
